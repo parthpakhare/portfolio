@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7a753a37.chunk.css",
+    "main.js": "/portfolio/static/js/main.247edf62.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.247edf62.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/js/2.c7c855a3.chunk.js": "/portfolio/static/js/2.c7c855a3.chunk.js",
+    "static/js/2.c7c855a3.chunk.js.map": "/portfolio/static/js/2.c7c855a3.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.7a753a37.chunk.css.map": "/portfolio/static/css/main.7a753a37.chunk.css.map",
+    "static/js/2.c7c855a3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c7c855a3.chunk.js.LICENSE.txt",
+    "static/media/arrow.029b77d1.svg": "/portfolio/static/media/arrow.029b77d1.svg",
+    "static/media/calculator.135eedb7.svg": "/portfolio/static/media/calculator.135eedb7.svg",
+    "static/media/css.7f2b927e.svg": "/portfolio/static/media/css.7f2b927e.svg",
+    "static/media/figma.72ff3502.svg": "/portfolio/static/media/figma.72ff3502.svg",
+    "static/media/gimp.47e651ab.svg": "/portfolio/static/media/gimp.47e651ab.svg",
+    "static/media/github1.9466dac4.svg": "/portfolio/static/media/github1.9466dac4.svg",
+    "static/media/html.87f3f64a.svg": "/portfolio/static/media/html.87f3f64a.svg",
+    "static/media/inkscape.51c8e44d.svg": "/portfolio/static/media/inkscape.51c8e44d.svg",
+    "static/media/javascript.00f3e5cf.svg": "/portfolio/static/media/javascript.00f3e5cf.svg",
+    "static/media/linkedin.bdd0cc4b.svg": "/portfolio/static/media/linkedin.bdd0cc4b.svg",
+    "static/media/mail2.addc579b.svg": "/portfolio/static/media/mail2.addc579b.svg",
+    "static/media/node.52cbf9a8.svg": "/portfolio/static/media/node.52cbf9a8.svg",
+    "static/media/phone.0c90177d.svg": "/portfolio/static/media/phone.0c90177d.svg",
+    "static/media/quiz.6a768afe.svg": "/portfolio/static/media/quiz.6a768afe.svg",
+    "static/media/react.e68b35f4.svg": "/portfolio/static/media/react.e68b35f4.svg",
+    "static/media/redux.0e4fb1c8.svg": "/portfolio/static/media/redux.0e4fb1c8.svg",
+    "static/media/sass.8aa78a83.svg": "/portfolio/static/media/sass.8aa78a83.svg",
+    "static/media/weather.49c79179.svg": "/portfolio/static/media/weather.49c79179.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76232b81.js",
+    "static/js/2.c7c855a3.chunk.js",
+    "static/css/main.7a753a37.chunk.css",
+    "static/js/main.247edf62.chunk.js"
+  ]
+}
